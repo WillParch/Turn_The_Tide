@@ -252,7 +252,6 @@
     <None Include="..\..\TTT_Project.uproject"/>
     <None Include="..\..\Source\TTT_Project.Target.cs"/>
     <None Include="..\..\Source\TTT_ProjectEditor.Target.cs"/>
-    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
