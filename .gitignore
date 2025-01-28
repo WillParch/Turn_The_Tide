@@ -72,3 +72,23 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore logs, temporary files, and user-specific settings
+Saved/
+Intermediate/
+DerivedDataCache/
+*.log
+*.tmp
+
+# Ignore build outputs
+Binaries/
+Build/
+*.target
+*.pdb
+*.exe
+*.dll
+
+# Ignore config files with sensitive info (adjust for your project)
+Config/DefaultEngine.ini
+Config/DefaultGame.ini
+Config/DefaultInput.ini
