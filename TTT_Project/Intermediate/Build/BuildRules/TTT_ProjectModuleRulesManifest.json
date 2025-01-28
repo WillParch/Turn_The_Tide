@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\TTT_Main\\Turn_The_Tide\\TTT_Project\\Source\\TTT_Project\\TTT_Project.Build.cs",
+		"C:\\TTT_Main\\Turn_The_Tide\\TTT_Project\\Source\\TTT_Project.Target.cs",
+		"C:\\TTT_Main\\Turn_The_Tide\\TTT_Project\\Source\\TTT_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

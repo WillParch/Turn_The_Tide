@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ttt_main\\turn_the_tide\\ttt_project\\source\\ttt_project\\ttt_project.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ttt_main\\turn_the_tide\\ttt_project\\intermediate\\build\\win64\\x64\\ttt_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ttt_main\\turn_the_tide\\ttt_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ttt_project\\definitions.ttt_project.h",
+            "c:\\ttt_main\\turn_the_tide\\ttt_project\\source\\ttt_project\\ttt_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TTT_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\TTT_Main\Turn_The_Tide\TTT_Project\Intermediate\Build\Win64\x64\TTT_ProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\TTT_Main\Turn_The_Tide\TTT_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\TTT_Project\TTT_Project.cpp.obj"
+"C:\TTT_Main\Turn_The_Tide\TTT_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\TTT_Project\PerModuleInline.gen.cpp.obj"
+"C:\TTT_Main\Turn_The_Tide\TTT_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\TTT_Project\Default.rc2.res"
+/OUT:"C:\TTT_Main\Turn_The_Tide\TTT_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\TTT_Project\UnrealEditor-TTT_Project.lib"
