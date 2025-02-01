@@ -11,6 +11,7 @@
     <None Include="..\..\Source\TTT_ProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -37,6 +38,24 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\TTT_Project\TTT_Project.h">
       <Filter>Source\TTT_Project</Filter>
+    </ClCompile>
+    <Filter Include="Source\TTT_Project\Private">
+      <UniqueIdentifier>{2389336E-0987-335C-8698-3488D4D502ED}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TTT_Project\Private\MyPlayerController.cpp">
+      <Filter>Source\TTT_Project\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TTT_Project\Private\RollableDieActor.cpp">
+      <Filter>Source\TTT_Project\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TTT_Project\Public">
+      <UniqueIdentifier>{48E63C35-8CBB-3C26-BFAC-0F7E0C4C0586}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TTT_Project\Public\MyPlayerController.h">
+      <Filter>Source\TTT_Project\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TTT_Project\Public\RollableDieActor.h">
+      <Filter>Source\TTT_Project\Public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
